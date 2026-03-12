@@ -1,0 +1,171 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+
+# ========================================
+# 1-10: TV NASIONAL UTAMA
+# ========================================
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/RCTI_Logo.png" group-title="Nasional", RCTI
+https://cdn-1.telerama.com/live/rcti/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e0/SCTV_logo_2005.svg" group-title="Nasional", SCTV
+https://cdn-1.telerama.com/live/sctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Indosiar_2014.svg" group-title="Nasional", Indosiar
+https://cdn-1.telerama.com/live/indosiar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Trans_TV_2013.svg" group-title="Nasional", Trans TV
+https://edge.tve.id/live/transtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Trans7_2013.svg" group-title="Nasional", Trans 7
+https://edge.tve.id/live/trans7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MNCTV_2014.svg" group-title="Nasional", MNCTV
+https://cdn-1.telerama.com/live/mnctv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/GTV_2017.svg" group-title="Nasional", GTV
+https://cdn-1.telerama.com/live/gtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/ANTV_2016.svg" group-title="Nasional", ANTV
+https://cdn-1.telerama.com/live/antv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/NET._2018.svg" group-title="Nasional", NET TV
+https://netmedia-live.akamaized.net/hls/live/2022836/NetTV/master.m3u8
+
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/RTV_2014.svg" group-title="Nasional", RTV
+https://rtv.stream.my.id/live/rtv.m3u8
+
+# ========================================
+# 11-20: BERITA & INFORMASI
+# ========================================
+
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/TVRI_2019.svg" group-title="Berita", TVRI Nasional
+https://tvri-nasional.akamaized.net/hls/live/2102179/tvri-nasional/master.m3u8
+
+#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/TvOne_2023.svg" group-title="Berita", tvOne
+https://live.tvonenews.com/hls/tvone.m3u8
+
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Metro_TV_2010.svg" group-title="Berita", Metro TV
+https://edge.medcom.id/live/metrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/Kompas_TV_2017.svg" group-title="Berita", Kompas TV
+https://kompastv-live.akamaized.net/hls/live/2012891/KompasTV/master.m3u8
+
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/INews_2017.svg" group-title="Berita", iNews
+https://cdn-1.telerama.com/live/inews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/CNN_Indonesia_2015.svg" group-title="Berita", CNN Indonesia
+https://live.cnnindonesia.com/live/cnn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/CNBC_Indonesia_2018.svg" group-title="Berita", CNBC Indonesia
+https://live.cnbcindonesia.com/live/cnbc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BTV_2023.svg" group-title="Berita", BTV
+https://live.beritasatu.com/btv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Nusantara_TV_2015.svg" group-title="Berita", Nusantara TV
+https://live.nusantaratv.com/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="JPMTV.id" group-title="Berita", JPM TV
+https://jpm-live.akamaized.net/hls/live/2012892/JPMTV/master.m3u8
+
+# ========================================
+# 21-30: HIBURAN, ANAK & LOKAL
+# ========================================
+
+#EXTINF:-1 tvg-id="Moji.id" group-title="Hiburan", Moji TV
+https://cdn-1.telerama.com/live/moji/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="Anak", Mentari TV
+https://cdn-1.telerama.com/live/mentaritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Spacetoon.id" group-title="Anak", Spacetoon
+https://spacetoon.stream.my.id/live/spacetoon.m3u8
+
+#EXTINF:-1 tvg-id="Prambors.id" group-title="Musik", Prambors TV
+https://prambors.stream.my.id/live/prambors.m3u8
+
+#EXTINF:-1 tvg-id="JTV.id" group-title="Lokal", JTV Surabaya
+https://jtv.stream.my.id/live/jtv.m3u8
+
+#EXTINF:-1 tvg-id="JakTV.id" group-title="Lokal", Jak TV
+https://jaktv.stream.my.id/live/jaktv.m3u8
+
+#EXTINF:-1 tvg-id="BaliTV.id" group-title="Lokal", Bali TV
+https://balitv.stream.my.id/live/balitv.m3u8
+
+#EXTINF:-1 tvg-id="BandungTV.id" group-title="Lokal", Bandung TV
+https://bandungtv.stream.my.id/live/bandungtv.m3u8
+
+#EXTINF:-1 tvg-id="PadangTV.id" group-title="Lokal", Padang TV
+https://padangtv.stream.my.id/live/padangtv.m3u8
+
+#EXTINF:-1 tvg-id="DAAITV.id" group-title="Lokal", DAAI TV
+https://daaitv.stream.my.id/live/daaitv.m3u8
+
+# ========================================
+# 31-40: RELIGI & OLAHRAGA UMUM
+# ========================================
+
+#EXTINF:-1 tvg-id="RodjaTV.id" group-title="Religi", Rodja TV
+https://live.rodja.tv/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVMUI.id" group-title="Religi", TV MUI
+https://tvmui.stream.my.id/live/tvmui.m3u8
+
+#EXTINF:-1 tvg-id="MTATV.id" group-title="Religi", MTA TV
+https://mtatv.stream.my.id/live/mtatv.m3u8
+
+#EXTINF:-1 tvg-id="tvMu.id" group-title="Religi", tvMu
+https://tvmu.stream.my.id/live/tvmu.m3u8
+
+#EXTINF:-1 tvg-id="NUChannel.id" group-title="Religi", NU Channel
+https://nuchannel.stream.my.id/live/nuchannel.m3u8
+
+#EXTINF:-1 tvg-id="SurauTV.id" group-title="Religi", Surau TV
+https://surautv.stream.my.id/live/surautv.m3u8
+
+#EXTINF:-1 tvg-id="AhsanTV.id" group-title="Religi", Ahsan TV
+https://ahsantv.stream.my.id/live/ahsantv.m3u8
+
+#EXTINF:-1 tvg-id="MQTV.id" group-title="Religi", MQTV
+https://mqtv.stream.my.id/live/mqtv.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport.id" group-title="Olahraga", TVRI Sport
+https://tvri-sport.akamaized.net/hls/live/2102181/tvri-sport/master.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.us" group-title="Olahraga", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+# ========================================
+# 41-50: TV LUAR NEGERI & PREMIUM
+# ========================================
+
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="Luar Negeri", CGTN News (China)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4.cn" group-title="Luar Negeri", CCTV 4 (China)
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="Arirang.kr" group-title="Luar Negeri", Arirang TV (Korea)
+https://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHK.jp" group-title="Luar Negeri", NHK World (Jepang)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/11-ojp/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera.qa" group-title="Luar Negeri", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us" group-title="Premium", HBO
+https://live.nonton-gratis.tv/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" group-title="Premium", Cinemax
+https://live.nonton-gratis.tv/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.us" group-title="Premium", Warner TV
+https://live.nonton-gratis.tv/warnertv/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports1.id" group-title="Olahraga", beIN Sports 1
+https://live.nonton-gratis.tv/bein1/index.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.id" group-title="Olahraga", SPOTV
+https://live.nonton-gratis.tv/spotv/index.m3u8
